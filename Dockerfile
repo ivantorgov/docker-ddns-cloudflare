@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM arm32v7/alpine:3.10
 
 ENV file /usr/local/bin/run.sh
 
